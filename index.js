@@ -43,17 +43,3 @@
 //     })
 // })
 
-// connectBtn.addEventListener("click", function(){
-//     let email = document.getElementById("email");
-//     let pass = document.getElementById("pass");
-
-//     if(email.value == "" && pass.value ==  ""){
-//         alert("Please Enter Detail")
-//     }else{
-//         alert("You Logged In")
-//         email.value="";
-//         pass.value="";
-
-//     }
-
-// })
